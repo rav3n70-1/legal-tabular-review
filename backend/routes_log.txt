@@ -1,0 +1,15 @@
+
+--- Registered Routes ---
+/openapi.json [GET, HEAD]
+/docs [GET, HEAD]
+/docs/oauth2-redirect [GET, HEAD]
+/redoc [GET, HEAD]
+/api/create-project-async [POST]
+/api/get-project-info/{project_id} [GET]
+/api/list-projects [GET]
+/api/list-available-files [GET]
+/api/generate-all-answers/{project_id} [POST]
+/api/define-fields/{project_id} [POST]
+/health [GET]
+-------------------------
+
