@@ -1,5 +1,5 @@
 # 📊 Legal Tabular Review
-
+for Makebell
 > AI-powered document extraction and comparison tool for legal documents
 
 A modern web application that uses Google's Gemini AI to extract structured data from legal documents (PDFs, HTML) and present them in a tabular format for easy comparison and analysis.
