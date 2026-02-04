@@ -263,5 +263,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://react.dev/) for the UI framework
 - [pdfplumber](https://github.com/jsvine/pdfplumber) for PDF parsing
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
-
+Used AI agent and existing knowledge
 
